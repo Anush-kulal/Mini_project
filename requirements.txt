@@ -1,0 +1,6 @@
+opencv-python
+face_recognition
+python-telegram-bot
+cmake
+dlib
+requests
