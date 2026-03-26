@@ -1,2 +1,21 @@
+# Virtual environments
 venv/
+.venv/
+
+# Environment secrets - NEVER commit this
 .env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Large binary model files
+*.onnx
+
+# Database files
+*.db
+
+# Known/unknown face image data (personal data)
+known_faces/
+unknown_faces/
